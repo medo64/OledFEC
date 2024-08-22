@@ -6,7 +6,7 @@
 |------------|---------------:|
 | Dimensions | 27.4 x 12.0 mm |
 | Voltage    | 5 V ±10%       |
-| Current    | 900 mA         |
+| Current    | 200 mA         |
 
 
 ### Parts
@@ -22,7 +22,7 @@
 |  1 | R 1K 0.125W (0805)                        | R1      | RMCF0805FT1K00CT-ND |
 |  3 | R 5.1K 0.125W (0805)                      | R2-R4   | RMCF0805FT5K10CT-ND |
 |  1 | U PIC16F1454-I/ST (SSOP-14)               | U1      | PIC16F1454-I/ST-ND  |
-|  1 | U MIC2005A-1 (SOT23-5)                    | U2      | 576-3462-1-ND       |
+|  1 | U MIC2091-1 (SOT23-5)                     | U2      | 576-3891-1-ND       |
 
 
 #### Optional I²C Pull-Up
